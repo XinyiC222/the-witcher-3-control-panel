@@ -241,4 +241,4 @@ matches and a separate one for private testing.
 
 ---
 
-*the-witcher-3-control-panel · Updated 2026-10-27 · Shared under the MIT License*
+*the-witcher-3-control-panel · Updated 2026-10-28 · Shared under the MIT License*
